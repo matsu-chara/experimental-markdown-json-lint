@@ -1,0 +1,13 @@
+{
+  "name": "experimental-markdown-json-lint",
+  "version": "0.0.1",
+  "description": "(this package is experimental):lint json in markdown at json codeblock",
+  "bin": "index.js",
+  "author": "matsu_chara",
+  "license": "ISC",
+  "dependencies": {
+    "jsonlint": "1.6.2",
+    "markdown-to-ast": "3.2.3",
+    "node-glob": "1.2.0"
+  }
+}
