@@ -1,6 +1,6 @@
 {
   "name": "experimental-markdown-json-lint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "(this package is experimental):lint json in markdown at json codeblock",
   "bin": "index.js",
   "author": "matsu_chara",
